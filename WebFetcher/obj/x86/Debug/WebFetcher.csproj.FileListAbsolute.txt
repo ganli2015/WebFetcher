@@ -1,0 +1,8 @@
+E:\WebFetcher\WebFetcher\bin\Debug\WebFetcher.exe
+E:\WebFetcher\WebFetcher\bin\Debug\WebFetcher.pdb
+E:\WebFetcher\WebFetcher\obj\x86\Debug\WebFetcher.Properties.Resources.resources
+E:\WebFetcher\WebFetcher\obj\x86\Debug\WebFetcher.csproj.GenerateResource.Cache
+E:\WebFetcher\WebFetcher\obj\x86\Debug\WebFetcher.exe
+E:\WebFetcher\WebFetcher\obj\x86\Debug\WebFetcher.pdb
+E:\WebFetcher\WebFetcher\obj\x86\Debug\WebFetcher.MainForm.resources
+E:\WebFetcher\WebFetcher\obj\x86\Debug\WebFetcher.csprojResolveAssemblyReference.cache
